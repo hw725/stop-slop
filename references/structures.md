@@ -132,3 +132,98 @@ Wh- openers become a crutch. "What makes this hard is..." becomes "The constrain
 |---------|---------|
 | Lazy extremes (every, always, never, everyone, everybody, nobody) | False authority. Use specifics instead of sweeping claims. |
 | All adverbs (-ly words, "really," "just," "literally," "genuinely," "honestly," "simply," "actually") | Empty emphasis. See phrases.md for full list. |
+
+<!-- Sections below are cherry-picked from petergyang/no-ai-slop @ 000650b (MIT), 2026-09-20,
+     audit AUD-20260920-104017-4a029a17. Only patterns absent from the upstream stop-slop text. -->
+
+## Colon Reveals
+
+A noun phrase, a colon, then a lowercase dramatic reveal.
+
+| Pattern | Problem |
+|---------|---------|
+| "The detail that makes it work: a separate agent grades it." | Manufactured suspense |
+| "The best part: it learns." | Same |
+
+**Instead:** A plain sentence. "A separate agent does the grading, which is what makes it work." Keep colons for lists, labels, and quotes.
+
+## Faux-Insight Setups
+
+| Pattern | Problem |
+|---------|---------|
+| "This is the part most people skip" | Flatters the writer as the lone expert |
+| "What most people get wrong" | Same |
+| "Here's what nobody tells you" / "The part everyone misses" | Same |
+
+**Instead:** Cut the setup; let the claim stand. "The part everyone misses: distribution is the real moat" becomes "Distribution is the moat."
+
+## Superficial Analysis
+
+Trailing `-ing` clauses that pretend to explain meaning.
+
+| Pattern | Problem |
+|---------|---------|
+| "…, highlighting the team's commitment to better workflows" | Says nothing the reader can check |
+| "…, underscoring / reflecting / showcasing …" | Same |
+
+**Instead:** Replace with the concrete consequence. "The launch adds file search, so users can find old drafts without leaving the editor."
+
+## Importance Puffery
+
+| Pattern | Problem |
+|---------|---------|
+| "stands as a testament" / "marks a pivotal moment" | Asserts weight instead of showing it |
+| "plays a vital role" / "solidifies its position" / "underscores its significance" | Same |
+
+**Instead:** State the fact and let the reader judge. "The launch is the company's first paid product."
+
+## Interpretive Metadiscourse
+
+Lines that step outside the subject to tell the reader what to notice or how to weigh it.
+
+| Pattern | Problem |
+|---------|---------|
+| "That last part matters more than it sounds" | Commentary instead of support |
+| "The key point is" / "As you can see" / "This distinction matters" | Same |
+| Redundant "In other words" | Restates instead of advancing |
+
+**Instead:** If the point is clear, delete the aside. Otherwise replace it with a fact already in the content.
+
+## Fake-Strong Verbs
+
+| Pattern | Fix |
+|---------|-----|
+| "The app serves as a centralized hub for sponsor management" | "The app tracks sponsors, drafts, due dates, and approvals in one place" |
+
+Prefer "is" and "has" when they are clearer than a borrowed action verb.
+
+## Synonym Cycling
+
+Rotating terms for style when the clear word is right.
+
+| Pattern | Fix |
+|---------|-----|
+| "The agent reviews the draft. The assistant scores the piece. The tool suggests fixes." | "The agent reviews the draft, scores it, and suggests fixes." |
+
+## Fake-Profound Kickers
+
+A final "deep" line that turns the point into a metaphor, aphorism, or mic-drop.
+
+**Instead:** Delete it. Do not rewrite it into a better metaphor and do not keep the rhythm. End on the clearest concrete sentence already in the draft, or add a plain takeaway or next action.
+
+## Summary-Recap Endings
+
+"In conclusion," "Ultimately," "Overall," or a last paragraph that restates the piece.
+
+**Instead:** End on the last concrete point, takeaway, or next action. The reader was just there.
+
+## Formatting Slop
+
+| Pattern | Problem |
+|---------|---------|
+| Emoji in headings | Decoration |
+| Bold sprinkled mid-sentence for emphasis | Shouting |
+| Bullet lists where two sentences of prose read better | Fragmentation |
+| Headers over two-sentence sections | Structure without content |
+
+**Instead:** Format follows content.

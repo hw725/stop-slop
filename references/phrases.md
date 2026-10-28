@@ -126,3 +126,29 @@ Sentences that announce importance without naming the specific thing. Kill these
 - "The consequences are real"
 
 If a sentence says something is important/deep/structural without showing the specific thing, cut it or replace it with the specific thing.
+
+<!-- Sections below are cherry-picked from petergyang/no-ai-slop @ 000650b (MIT), 2026-09-20,
+     audit AUD-20260920-104017-4a029a17. Only items absent from the upstream stop-slop lists. -->
+
+## Banned Words
+
+Cut outright: delve, foster, leverage, utilize, facilitate, empower, streamline, robust, cutting-edge, paradigm shift, this is huge, this changes everything, tapestry, realm, beacon, multifaceted, meticulous, intricate, paramount, transformative, elevate, embark, supercharge, harness, ever-evolving.
+
+## Weasel Attribution
+
+Name the source or cut the claim. If there is no source, ask instead of inventing one.
+
+- "Experts agree"
+- "Industry reports suggest"
+- "Many argue"
+- "Widely regarded as"
+- "Studies show"
+
+## More Filler Phrases
+
+- "In the age of [X]" / "In the world of [X]"
+- "The truth is"
+- "In terms of" / "With regard to"
+- "In order to"
+- "Going forward"
+- "In this article" / "Let's dive in"
